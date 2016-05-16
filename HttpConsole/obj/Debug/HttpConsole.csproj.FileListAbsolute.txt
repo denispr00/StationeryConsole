@@ -1,0 +1,6 @@
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\bin\Debug\HttpConsole.exe.config
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\bin\Debug\HttpConsole.exe
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\bin\Debug\HttpConsole.pdb
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\obj\Debug\HttpConsole.exe
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\obj\Debug\HttpConsole.pdb
+C:\Users\Denis\Desktop\visual studio 2015\Projects\HttpConsole\HttpConsole\obj\Debug\HttpConsole.csprojResolveAssemblyReference.cache
